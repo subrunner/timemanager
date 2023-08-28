@@ -8,6 +8,7 @@
     "url":"https://github.com/subrunner/timemanager"
   },
   "scripts": {
+    "build": "echo \"Running build script\"",
     "test": "echo \"Error: no test specified\" && exit 1",
     "google_login": "firebase login"
   },
